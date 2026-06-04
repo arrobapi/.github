@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://arrobapi.com">
+  <a href="https://arrobapi.com" target="_blank" rel="noopener noreferrer">
     <img src="./banner.png" alt="Academia arrobaPi Banner" width="100%" max-width="800px">
   </a>
 </p>

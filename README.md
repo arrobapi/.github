@@ -1,4 +1,10 @@
-# 🚀 Academia arrobaPi | Code Laboratory 💻
+<p align="center">
+  <a href="https://arrobapi.com">
+    <img src="./banner.png" alt="Academia arrobaPi Banner" width="100%" max-width="800px">
+  </a>
+</p>
+
+<br>
 
 ¡Bienvenido al repositorio oficial de pruebas y desarrollo de **Academia arrobaPi**! Este espacio está diseñado como nuestro laboratorio tecnológico, donde experimentamos con código, preparamos recursos interactivos, desplegamos prácticas de programación y testeamos los entornos para nuestros cursos de informática.
 
